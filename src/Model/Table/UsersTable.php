@@ -1,4 +1,4 @@
-<? php
+<?php
 namespace App\Model\Table;
 
 use Cake\ORM\Query;
